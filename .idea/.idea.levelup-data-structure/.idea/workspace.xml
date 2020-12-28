@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8342598e-c515-40a3-8257-21edb71c59c7" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/8691AD70-05ED-4755-A182-8378FF0B52B1/65/95f1ec52/Object.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/IInventory.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/5DE66FF1-1FCB-4513-8463-255B392B032B/8e/91118285/NotifyCollectionChangedEventArgs.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/ObservableCollection/Scripts/CubeCollectible.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/SortedList/Scripts/TierComparer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/ObservableCollection/Scripts/ObservableInventory.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/SortedList/Scripts/SortedInventoryUI.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/SortedList/Scripts/SortedInventory.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/SortedList/Scripts/SphereCollectible.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/ObservableCollection/Scripts/ObservableInventoryUI.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/ICollectible.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/SortedListExample.cs" />
+        <option value="$PROJECT_DIR$/Assets/ObservableExample.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Collectable.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/AbstractInventory.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/ObservableInventory.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/ObservableInventoryUI.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Collectible.cs" />
+        <option value="$PROJECT_DIR$/Assets/ObservableCollection/Scripts/ColorfulCollectible.cs" />
+        <option value="$PROJECT_DIR$/Assets/ObservableCollection/Scripts/ColorCollectible.cs" />
+        <option value="$PROJECT_DIR$/Assets/SortedList/Scripts/CapsuleCollectible.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/IInventory.cs" />
+        <option value="$PROJECT_DIR$/Assets/ObservableCollection/Scripts/Inventory.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/ICollectible.cs" />
+        <option value="$PROJECT_DIR$/Assets/SortedList/Scripts/CubeSpawner.cs" />
+        <option value="$PROJECT_DIR$/Assets/ObservableCollection/Scripts/CubeCollectible.cs" />
+        <option value="$PROJECT_DIR$/Assets/SortedList/Scripts/SphereCollectible.cs" />
+        <option value="$PROJECT_DIR$/Assets/SortedList/Scripts/SortedInventory.cs" />
+        <option value="$PROJECT_DIR$/Assets/SortedList/Scripts/TierComparer.cs" />
+        <option value="$PROJECT_DIR$/Assets/SortedList/Scripts/SortedInventoryUI.cs" />
+        <option value="$PROJECT_DIR$/Assets/ObservableCollection/Scripts/ObservableInventory.cs" />
+        <option value="$PROJECT_DIR$/Assets/ObservableCollection/Scripts/ObservableInventoryUI.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1m9ZmrbkhqZ6xhOee9CKFa7oGva" />
+  <component name="PropertiesComponent">
+    <property name="Discover.Launch.Via.Unity" value="true" />
+    <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="userSelectedPid" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="userSelectedPid" value="false" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8342598e-c515-40a3-8257-21edb71c59c7" name="Default Changelist" comment="" />
+      <created>1608907939345</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1608907939345</updated>
+      <workItem from="1608907961139" duration="12680000" />
+      <workItem from="1609172178720" duration="795000" />
+    </task>
+    <servers />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="VcsManagerConfiguration">
+    <option name="LOCAL_CHANGES_DETAILS_PREVIEW_SHOWN" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="561" y="138" key="RiderGenerateDialog" />
+    <state x="561" y="138" key="RiderGenerateDialog/1920.1080" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" suspend="NONE" type="DotNet Exception Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

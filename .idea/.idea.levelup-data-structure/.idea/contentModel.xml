@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\Tinamou\.Rider2019.2\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Tinamou\.Rider2019.2\system\resharper-host\local\Transient\ReSharperHost\v192\SolutionCaches\_levelup-data-structure.-236856556.00" t="ExcludeRecursive" />
+    <e p="D:\Projects\levelup-data-structure" t="IncludeRecursive">
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="ObservableCollection" t="Include">
+          <e p="Scripts" t="Include">
+            <e p="CubeCollectible.cs" t="Include" />
+            <e p="ObservableInventory.cs" t="Include" />
+            <e p="ObservableInventoryUI.cs" t="Include" />
+          </e>
+        </e>
+        <e p="Scripts" t="Include">
+          <e p="ICollectible.cs" t="Include" />
+          <e p="IInventory.cs" t="Include" />
+          <e p="Inventory.cs" t="Include" />
+        </e>
+        <e p="SortedList" t="Include">
+          <e p="Scripts" t="Include">
+            <e p="SortedInventory.cs" t="Include" />
+            <e p="SortedInventoryUI.cs" t="Include" />
+            <e p="SphereCollectible.cs" t="Include" />
+            <e p="TierComparer.cs" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="levelup-data-structure.sln" t="IncludeFlat" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="Temp\bin" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>
